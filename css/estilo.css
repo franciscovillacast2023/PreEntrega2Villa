@@ -121,9 +121,15 @@
 
 /* INICIO FOOTER */
 
+.bg-link-footer h5 {
+	font-weight: 300;
+}
+
+
 .bg-link-footer a {
     text-decoration: none;
     color: white;
+	font-size: 50px;
 }
 
 .bg-link-footer a:hover {
@@ -279,4 +285,15 @@ width: 35%;
 background-color: white;
 border:rgb(0, 102, 255) 2px solid;
 color: rgb(0, 102, 255);
+}
+
+
+/* CASOS ESPECIALES */
+
+@media (min-width: 992px) {
+
+	.bg-desarrollo-wrap {
+		flex-wrap: nowrap;
+	}
+		
 }
