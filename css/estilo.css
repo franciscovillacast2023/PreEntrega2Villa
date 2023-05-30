@@ -238,9 +238,22 @@ color: rgb(0, 102, 255);
 
 /* INICIO RPA */
 
-.bg-cuadro-rpa2 {
-width: 35%;
+.bg-cuadro-rpa2-1 {
+	width: 100%;
 }
+
+.bg-cuadro-rpa2-2 {
+	width: 100%;
+}
+
+.bg-cuadro-rpa2-3 {
+	width: 100%;
+}
+
+.bg-cuadro-rpa2-4 {
+	width: 100%;
+}
+
 
 .bg-cuadro-rpa3 {
 	width: 85%;
