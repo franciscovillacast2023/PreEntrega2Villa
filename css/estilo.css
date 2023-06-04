@@ -23,7 +23,7 @@
 		background-image: url("../assets/img/consultoria-procesos-desarrollo-1-1024x540.jpg");
 	
 		/* Definir un alto específico */
-		height: 100%;
+		width: 95%;
 		
 	
 		/* Crear el efecto parallax al scrollear */
@@ -78,8 +78,6 @@
 
 .bg-cuadro1 {
     background-color: #eaebec;
-	/* height: 100%; */
-
 } 
 
 .bg-texto1 {
@@ -152,11 +150,11 @@
 .imagen_logo_footer {
     background-repeat: no-repeat;
     width: 30%;
-  }
+}
   
 .boton_buscar {
     width: 50%;
-  }
+}
 
 .cuadro-final-footer {
 	background-color: #0E0E54;
@@ -190,7 +188,7 @@ color: rgb(0, 102, 255);
 		background-image: url("../assets/img/empleos1.jpg");
 	
 		/* Definir un alto específico */
-		height: 100%;
+		width: 95%;
 		
 	
 		/* Crear el efecto parallax al scrollear */
@@ -219,7 +217,7 @@ color: rgb(0, 102, 255);
 		background-image: url("../assets/img/contacto.jpg");
 	
 		/* Definir un alto específico */
-		height: 100%;
+		width: 95%;
 		
 	
 		/* Crear el efecto parallax al scrollear */
@@ -270,17 +268,12 @@ o
 
 .bg-rpa-fondo {
 	width: 100%;
-	/* height: 20rm; */
 }
 
 /* FIN RPA */
 
 
 /* INICIO DESARROLLO */
-
-.bg-cuadro-desarrollo-1 {
-
-}
 
 
 .bg-cuadro-desarrollo-2 {
