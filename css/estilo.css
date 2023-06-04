@@ -78,6 +78,8 @@
 
 .bg-cuadro1 {
     background-color: #eaebec;
+	/* height: 100%; */
+
 } 
 
 .bg-texto1 {
@@ -245,7 +247,7 @@ color: rgb(0, 102, 255);
 .bg-cuadro-rpa2-2 {
 	width: 100%;
 }
-
+o
 .bg-cuadro-rpa2-3 {
 	width: 200%;
 }
@@ -253,7 +255,6 @@ color: rgb(0, 102, 255);
 .bg-cuadro-rpa2-4 {
 	width: 100%;
 }
-
 
 .bg-cuadro-rpa3 {
 	width: 100%;
@@ -269,10 +270,7 @@ color: rgb(0, 102, 255);
 
 .bg-rpa-fondo {
 	width: 100%;
-}
-
-.bg-seccion-alto {
-	height: 30%;
+	/* height: 20rm; */
 }
 
 /* FIN RPA */
